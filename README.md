@@ -1,4 +1,4 @@
 # Hola-Mon
 Primer Projecte
 
-Endavant Fuix
+Endavant Fuix tu pots!
